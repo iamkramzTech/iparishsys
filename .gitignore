@@ -416,3 +416,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+DatabaseInitializer.cs
+
+*.sqlite
+*.sqlite3
+*.db
+*.sqbpro
+[Ss]etup/
+Setup.exe
+*.exe
+App.config
+**/App.config
