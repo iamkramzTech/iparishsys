@@ -12,4 +12,4 @@ This project includes or adapts code from the following open-source projects:
   Copyright (c) 2020 SampathTharanga — Licensed under the MIT License
 
 ## Archived Repository
-  This is continuation of the previous repository which is archived , please refer to the [sapp-system-csharpdotnet](https://github.com/iamkramzTech/sapp-system-csharpdotnet)
+  This is continuation of my previous repository which was now archived , please refer to the [sapp-system-csharpdotnet](https://github.com/iamkramzTech/sapp-system-csharpdotnet)
