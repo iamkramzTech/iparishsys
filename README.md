@@ -11,6 +11,12 @@ This project includes or adapts code from the following open-source projects:
 - [3-Tire-Architecture-WinForm-App](https://github.com/SampathTharanga/3-Tire-Architecture-WinForm-App)  
   Copyright (c) 2020 SampathTharanga — Licensed under the MIT License
 
+I used for theming UI
+- [Material Skin.2 2.3.1](https://github.com/leocb/MaterialSkin)
+  Copyright (c) 2014 Ignace Maes - Licensed under the MIT License
+
 ## Tech Stack
 - [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 - [SQlite](https://sqlite.org/about.html)
+
+## Screenshots
