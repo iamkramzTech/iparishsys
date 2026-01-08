@@ -11,5 +11,6 @@ This project includes or adapts code from the following open-source projects:
 - [3-Tire-Architecture-WinForm-App](https://github.com/SampathTharanga/3-Tire-Architecture-WinForm-App)  
   Copyright (c) 2020 SampathTharanga — Licensed under the MIT License
 
-## Archived Repository
-  This is continuation of my previous repository which was now archived , please refer to the [sapp-system-csharpdotnet](https://github.com/iamkramzTech/sapp-system-csharpdotnet)
+## Tech Stack
+- [C# WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview)
+- [SQlite](https://sqlite.org/about.html)
