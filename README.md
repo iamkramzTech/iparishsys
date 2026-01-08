@@ -1,5 +1,5 @@
-# sapp-infosys
-Sacrament Record Management and Information System for Saint Anthony of Padua Parish
+# IParishSys
+IParishSys is an Integrated Parish Information System for parishes to encode all data in physical sacrament book records: Baptismal, Confirmation, and Marriage. A desktop application for offline used built using .NET and SQlite database.
 
 ## Acknowledgments
 
