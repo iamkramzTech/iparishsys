@@ -12,5 +12,5 @@ This project includes or adapts code from the following open-source projects:
   Copyright (c) 2020 SampathTharanga — Licensed under the MIT License
 
 ## Tech Stack
-- [C# WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview)
+- [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 - [SQlite](https://sqlite.org/about.html)
