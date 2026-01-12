@@ -12,7 +12,11 @@ This project includes or adapts code from the following open-source projects:
   Copyright (c) 2020 SampathTharanga — Licensed under the MIT License
 
 - [Material Skin.2 2.3.1](https://github.com/leocb/MaterialSkin) 
-  Copyright (c) 2014 Ignace Maes - Licensed under the MIT License. - I used for theming UI
+  Copyright (c) 2014 Ignace Maes - Licensed under the MIT License. - I used so that winforms will have modern UI look and feel.
+
+- [PdfiumViewer.Updated](https://github.com/Bluegrams/PdfiumViewer)
+  Updated Forked by: Bluegrams;
+  Copyright(c) 2012-2015 Pieter van Ginkel - Licensed under the Apache License, Version 2.0 (the "License");
 
 ## Tech Stack
 - [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
